@@ -2,6 +2,7 @@ Mailbox
 =======
 
 This is the Mailbox assignment for week 3
+
 Time spent: 11 hours
 
 ####Completed User Stories:####
